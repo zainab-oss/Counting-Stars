@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: darkblue;
+	font-weight: bold;
+}
+canvas
+{
+	background-image: url("night.jfif");
+	border-radius: 20px;
+}
+
+.header {
+	border-radius: 20px;
+	background-color: yellow;
+	color: darkblue;
+	font-family: cursive;
+	font-weight: bolder;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
